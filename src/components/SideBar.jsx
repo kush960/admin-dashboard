@@ -13,7 +13,7 @@ function SideBar() {
           </a>
         </li>
 
-        <li className="nav-item">
+      {/*   <li className="nav-item">
           <a
             className="nav-link collapsed"
             data-bs-target="#components-nav"
@@ -48,9 +48,9 @@ function SideBar() {
               </a>
             </li>
           </ul>
-        </li>
+        </li> */}
 
-        <li className="nav-item">
+     {/*   <li className="nav-item">
           <a
             className="nav-link collapsed"
             data-bs-target="#forms-nav"
@@ -85,9 +85,9 @@ function SideBar() {
               </a>
             </li>
           </ul>
-        </li>
+        </li> */}
 
-        <li className="nav-item">
+        {/* <li className="nav-item">
           <a
             className="nav-link collapsed"
             data-bs-target="#tables-nav"
@@ -116,9 +116,9 @@ function SideBar() {
               </a>
             </li>
           </ul>
-        </li>
+        </li> */}
 
-        <li className="nav-item">
+      {/*  <li className="nav-item">
           <a
             className="nav-link collapsed"
             data-bs-target="#charts-nav"
@@ -153,7 +153,7 @@ function SideBar() {
               </a>
             </li>
           </ul>
-        </li>
+        </li>  
 
         <li className="nav-item">
           <a
@@ -190,7 +190,7 @@ function SideBar() {
               </a>
             </li>
           </ul>
-        </li>
+        </li> 
 
         <li className="nav-heading">Pages</li>
         {navList.map(nav => (
@@ -200,7 +200,7 @@ function SideBar() {
               <span>{nav.name}</span>
             </a>
           </li>
-        ))}
+        ))} */}
       </ul>
     </aside>
   );
