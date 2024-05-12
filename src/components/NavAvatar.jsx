@@ -35,7 +35,7 @@ function NavAvatar() {
           <hr className="dropdown-divider" />
         </li>
 
-        <li>
+      {/*  <li>
           <a
             className="dropdown-item d-flex align-items-center"
             href="users-profile.html"
@@ -66,7 +66,7 @@ function NavAvatar() {
             <i className="bi bi-box-arrow-right"></i>
             <span>Sign Out</span>
           </a>
-        </li>
+        </li> */}
       </ul>
     </li>
   );

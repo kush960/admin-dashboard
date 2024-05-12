@@ -42,7 +42,7 @@ function WebTrafficChart() {
             },
             {
               value: 580,
-              name: 'Active Customers',
+              name: 'Customers',
             },
             {
               value: 484,
