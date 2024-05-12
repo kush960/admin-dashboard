@@ -16,7 +16,7 @@ function NavAvatar() {
       <ul className="dropdown-menu dropdown-menu-end dropdown-menu-arrow profile">
         <li className="dropdown-header">
           <h6>Kushagra Ankit</h6>
-          <span>Web Developer</span>
+          <span>Full Dtack Developer</span>
         </li>
         <li>
           <hr className="dropdown-divider" />

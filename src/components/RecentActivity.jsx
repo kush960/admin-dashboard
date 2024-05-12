@@ -26,12 +26,13 @@ function RecentActivity() {
   useEffect(() => {
     fetchData();
   }, []);
-
+// div className="card" at line 31
   return (
-    <div className="card">
-    {/*   <CardFilter filterChange={handleFilterChange} />*/}
+   <div >
+    
+      {/*  <CardFilter filterChange={handleFilterChange} />
 
-     {/* <div className="card-body">
+     <div className="card-body">
         <h5 className="card-title">
           Recent Activity <span>| {filter}</span>
         </h5>
@@ -44,7 +45,7 @@ function RecentActivity() {
             ))}
         </div>
           </div> */}
-    </div>
+    </div>  
   );
 }
 
