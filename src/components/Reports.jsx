@@ -12,7 +12,7 @@ function Reports() {
       {/* <CardFilter filterChange={handleFilterChange} /> */}
       <div className="card-body">
         <h5 className="card-title">
-         DRAGON BALL Z Reports {/* <span>/{filter}</span> */}
+         DRAGON BALL Z Product Reports {/* <span>/{filter}</span> */}
         </h5>
         <ReportCharts />
       </div>
