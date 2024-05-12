@@ -28,7 +28,7 @@ function NavAvatar() {
             href="users-profile.html"
           >
             <i className="bi bi-person"></i>
-            <span>My Profile</span>
+            <span><a href="https://www.linkedin.com/in/kushagra-ankit/">My Profile</a></span>
           </a>
         </li>
         <li>
