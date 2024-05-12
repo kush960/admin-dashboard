@@ -41,9 +41,51 @@ function RecentSalesTable({ items }) {
         </tr>
         <tr>
           <th scope="col">3</th>
-          <th scope="col">Prashant </th>
+          <th scope="col">Prabhas </th>
           <th scope="col">Anime Wall Posters </th>
           <th scope="col"> ₹ 2100 </th>   
+        </tr>
+        <tr>
+          <th scope="col"> 4 </th>
+          <th scope="col">David </th>
+          <th scope="col">Manga Posters </th>
+          <th scope="col"> ₹ 2000 </th>   
+        </tr>
+        <tr>
+          <th scope="col">5</th>
+          <th scope="col"> Aniket </th>
+          <th scope="col">Channel Subsctiption </th>
+          <th scope="col"> ₹ 700 </th>   
+        </tr>
+        <tr>
+          <th scope="col">6</th>
+          <th scope="col"> Aniket </th>
+          <th scope="col">Channel Subsctiption </th>
+          <th scope="col"> ₹ 700 </th>    
+        </tr>
+        <tr>
+          <th scope="col">7</th>
+          <th scope="col">Prashant </th>
+          <th scope="col">Action Figures	 </th>
+          <th scope="col"> ₹ 550 </th>   
+        </tr>
+        <tr>
+          <th scope="col">8</th>
+          <th scope="col"> Aryan </th>
+          <th scope="col"> Charecters Key Chains </th>
+          <th scope="col"> ₹ 300 </th>   
+        </tr>
+        <tr>
+          <th scope="col">9</th>
+          <th scope="col">Anirudh </th>
+          <th scope="col">Anime Tshitrs </th>
+          <th scope="col"> ₹ 2400 </th>   
+        </tr>
+        <tr>
+          <th scope="col">10</th>
+          <th scope="col">Rishi </th>
+          <th scope="col">Action Figures </th>
+          <th scope="col"> ₹ 800 </th>   
         </tr>
       </thead>
       <tbody>
