@@ -11,11 +11,11 @@ function NavMessage() {
       <ul className="dropdown-menu dropdown-menu-end dropdown-menu-arrow messages">
         <li className="dropdown-header">
           You have 3 new messages
-          <a href="#">
+       {/*   <a href="#">
             <span className="badge rounded-pill bg-primary p-2 ms-2">
               View all
             </span>
-          </a>
+  </a> */}
         </li>
         <li>
           <hr className="dropdown-divider" />
@@ -71,19 +71,19 @@ function NavMessage() {
             <div>
               <h4>David Muldon</h4>
               <p>
-                The voice edits for the fighting scenes are done. It's got perfect as per visuals graphics. Customers liked Goku.
-              </p>
+               The sales are going up. We need to keep going. Hurray!!!
+                </p>
               <p>8 hrs. ago</p>
             </div>
           </a>
         </li>
-        <li>
+        {/* <li>
           <hr className="dropdown-divider" />
         </li>
 
-        <li className="dropdown-footer">
+         <li className="dropdown-footer">
           <a href="#">Show all messages</a>
-        </li>
+</li> */}
       </ul>
     </li>
   );

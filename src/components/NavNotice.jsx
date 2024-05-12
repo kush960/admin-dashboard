@@ -69,12 +69,12 @@ function NavNotice() {
           </div>
         </li>
 
-        <li>
+       {/*  <li>
           <hr className="dropdown-divider" />
         </li>
-        <li className="dropdown-footer">
+       <li className="dropdown-footer">
           <a href="#">Show all notifications</a>
-        </li>
+</li> */}
       </ul>
     </li>
   );
